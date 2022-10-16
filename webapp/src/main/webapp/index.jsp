@@ -3,6 +3,7 @@
     <h1>NEW USER Register for DevOps Learning!!!! :)</h1>
     <p>Please fill in this form to create an account.</p>
     <p>Have a nice day!!! Yay!!!! Yahoooo!!!</p>
+    <p>hogehoge</p>
     <hr>
      
     <label for="Name"><b>Enter Your Name</b></label>
