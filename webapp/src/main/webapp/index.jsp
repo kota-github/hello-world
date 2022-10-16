@@ -35,6 +35,6 @@
   </div>
 
    <h1> Thankyou, Happy Learning ですぞ！！！</h1>
-
+   <p>The End!!!</p>
   
 </form>
